@@ -24,7 +24,7 @@ This is an attempt to combine learning that I am doing across a number of fronts
 
 ## Challenges
 
- !/images/jukan-tateisi-bJhT_8nbUA0-unsplash-2.jpg
+ !https://github.com/bonni208/course-redesign/blob/main/images/jukan-tateisi-bJhT_8nbUA0-unsplash-2.jpg
 
 - Too much stuff (content and assignments)
 - Emerging uses of AI makes authentic assessment more challenging
