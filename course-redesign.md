@@ -51,7 +51,7 @@ Photo by [Anisur Rahman](https://unsplash.com/@arjabedbd?utm_content=creditCopyT
 
 ![Man using a tool with bright lights shining off of it, as he uses it](https://innovatelearning.s3.amazonaws.com/christopher-burns-8KfCR12oeUM-unsplash.jpg)
 
-- Text editor: [Typora](Typora *gives you a seamless experience as both a reader and a writer*. It removes the preview window, mode switcher, syntax symbols of markdown)
+- Text editor: [Typora](https://typora.io)
 - [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/docs/master/README.md#1)
 - [Teaching Tools](https://teaching.tools/)
@@ -68,3 +68,20 @@ Photo by [Christopher Burns](https://unsplash.com/@christopher__burns?utm_conten
 - Have the technology be hidden, in the sense that the experience is seamless: Any surprises come as a result of the content and engagement with other people, not the technology not working well/effectively 
 
 Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-white-typewriter-on-green-textile-LNzuOK1GxRU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+## Resources
+
+[Mind Over Monsters: Supporting Youth Mental Health with Compassionate Challenge, by Sarah Rose Cavanagh](https://www.penguinrandomhouse.com/books/710950/mind-over-monsters-by-sarah-rose-cavanagh/) (book)
+
+ [Typora](https://typora.io) - Markdown editor (Mac | Windows | Linux) (application)
+
+[Markdown](https://en.wikipedia.org/wiki/Markdown) - Plain text writing language
+
+[LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaScript/docs/master/README.md#1) - Extend plain text into Open Educational Resources (OERs)
+
+[Teaching Tools](https://teaching.tools/) - Brainstorm and develop lessons with the help of AI
+
+[ChatGPT 4.0](https://openai.com/gpt-4) - Artificial intelligence large language model (LLM) from OpenAI
+
+
+
