@@ -24,16 +24,10 @@ This is an attempt to combine learning that I am doing across a number of fronts
 
 ## Challenges
 
- !https://github.com/bonni208/course-redesign/blob/main/images/jukan-tateisi-bJhT_8nbUA0-unsplash-2.jpg
-
 - Too much stuff (content and assignments)
 - Emerging uses of AI makes authentic assessment more challenging
 - My version of hyflex (asynchronous and online synchronous) can be difficult
 - My organization can be lacking, at times
-
-Image: [Credit](Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/toddlers-standing-in-front-of-beige-concrete-stair-bJhT_8nbUA0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))
-
-Alt text: Young child wearing a hat and overalls stands at the bottom of a bunch of stairs, looking down at the first one. 
 
 ## Opportunities 
 
@@ -50,7 +44,3 @@ Alt text: Young child wearing a hat and overalls stands at the bottom of a bunch
 - [ChatGPT 4.0](https://openai.com/gpt-4)
 - Others
 
-## Goals 
-
-- Create an engaging, compassionately challenging experience for learners around vital aspects of business ethics
-- Have the technology be hidden, in the sense that the experience is seamless: Any surprises come as a result of the content and engagement with other people, not the technology not working well/effectively 
